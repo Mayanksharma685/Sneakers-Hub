@@ -1,2 +1,2 @@
-# Snekaers-Hub
+# Sneakers-Hub
 E-commerce website for the sneakers 
